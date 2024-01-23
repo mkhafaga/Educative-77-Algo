@@ -1,4 +1,4 @@
-package com.educative.algo77solutions.module3.trees;
+package com.educative.algo77solutions.module3.trees.dfs;
 
 public class TreeNode<T> {
     T data;
